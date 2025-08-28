@@ -4,4 +4,4 @@
 CREATE DATABASE salesDB;
 
 -- 2️⃣ Drop (delete) the database called demo
-DROP DATABASE IF EXISTS demo;
+DROP DATABASE demo;
